@@ -17,4 +17,3 @@ Neste módulo vimos de que forma podemos trabalhar com informações de objetos,
 
 # Angular aula 04 - compartilhamento de dados
 ![image](https://github.com/larisarapio/estudosAngular/assets/129699975/655d1395-f6bb-4935-8ae5-d6160e75b116)
->>>>>>> 44f8f55b301bc7b472266ee77f700347dccbce6b
