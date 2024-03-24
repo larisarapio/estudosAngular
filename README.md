@@ -12,7 +12,8 @@ Recomendo fortemente a explorar essas duas formas de trabalhar (versão antiga e
 
 # Angular aula 03 - interpolação de dados
 Neste módulo vimos de que forma podemos trabalhar com informações de objetos, listas e variáveis entre os componentes, como também o estilo deles (sccs/css).
-![image](https://github.com/larisarapio/estudosAngular/assets/129699975/8523a277-8069-4b3f-ab08-0092eb872e63)
+![image](https://github.com/larisarapio/estudosAngular/assets/129699975/92bfbadb-fb1c-4ce6-b3ea-ab723c85b2de)
+
 
 # Angular aula 04 - compartilhamento de dados
 ![image](https://github.com/larisarapio/estudosAngular/assets/129699975/655d1395-f6bb-4935-8ae5-d6160e75b116)
