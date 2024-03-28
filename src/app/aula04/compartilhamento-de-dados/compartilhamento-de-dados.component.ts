@@ -1,13 +1,13 @@
-import { Component, Input } from '@angular/core';
+import { Component, EventEmitter, Input, Output } from '@angular/core';
+import { FormsModule } from '@angular/forms';
 
 @Component({
   selector: 'app-compartilhamento-de-dados',
   standalone: true,
-  imports: [],
+  imports: [FormsModule],
   templateUrl: './compartilhamento-de-dados.component.html',
   styleUrl: './compartilhamento-de-dados.component.scss'
 })
 export class CompartilhamentoDeDadosComponent {
-  @Input() name: string = '';
-  @Input() userInformatation!: { email: string; idade: number };
+  @Input() userInformatation!: { email: string; };
 }

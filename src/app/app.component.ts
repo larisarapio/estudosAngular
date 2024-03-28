@@ -3,11 +3,12 @@ import { RouterOutlet } from '@angular/router';
 import { ButtonComponent } from './aula02/button/button.component';
 import { InterpolacaoDadosComponent } from './aula03/interpolacao-dados/interpolacao-dados.component';
 import { CompartilhamentoDeDadosComponent } from './aula04/compartilhamento-de-dados/compartilhamento-de-dados.component';
+import { DirectivesComponent } from './aula05/directives/directives.component';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, ButtonComponent, InterpolacaoDadosComponent, CompartilhamentoDeDadosComponent],
+  imports: [RouterOutlet, ButtonComponent, InterpolacaoDadosComponent, CompartilhamentoDeDadosComponent, DirectivesComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
@@ -16,8 +17,7 @@ export class AppComponent {
 
   userName = 'Angular.'
 
-  userInformation = {
-    email: 'angular@gmail.com',
-    idade: 30
-   }
+  user = {
+    email: 'angular@gmail.com'
+  }
 }
