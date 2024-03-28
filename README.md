@@ -21,5 +21,5 @@ Aqui começamos a de fato trabalhar com aquilo que é de fato muito importante p
 ![image](https://github.com/larisarapio/estudosAngular/assets/129699975/655d1395-f6bb-4935-8ae5-d6160e75b116)
 
 # Angular aula 05 - directives
-As diretivas realizam diversas funções, uma delas: aplicar estilos a um elemento. Você também pode conferir e praticar mais por esse link (https://andrewrosario.medium.com/dominando-as-diretivas-estruturais-no-angular-c1860dbe8b82)
+As diretivas realizam diversas funções, umaa delas: aplicar estilos a um elemento. Você também pode conferir e praticar mais por esse link (https://andrewrosario.medium.com/dominando-as-diretivas-estruturais-no-angular-c1860dbe8b82)
 ![alt text](image.png)
