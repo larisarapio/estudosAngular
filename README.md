@@ -25,6 +25,6 @@ As diretivas realizam diversas funções, umaa delas: aplicar estilos a um eleme
 ![alt text](image.png)
 
 # Angular aula 06 - renderização condicional
-Serve para utilizarmos para renderizar elementos condicionalmente no nosso sistema, podemos optar por exibir ou ocultar elementos com base em determinada condição, por exemplo.
-Se sentir nessecidade, esse link pode te ajudar a entender mais sobre: (https://medium.com/@pe.marcos30/angular-ngif-renderizando-elementos-condicionalmente-em-seu-sistema-f610cd3e16f7)
+Serve para renderizar elementos condicionalmente no nosso sistema, podemos optar por exibir ou ocultar elementos com base em determinada condição, por exemplo.
+Se sentir necessidade, esse link pode te ajudar a entender mais sobre: (https://medium.com/@pe.marcos30/angular-ngif-renderizando-elementos-condicionalmente-em-seu-sistema-f610cd3e16f7)
  ![image](https://github.com/larisarapio/estudosAngular/assets/129699975/bacd8309-a203-4521-bb7c-2788df7d5920)
